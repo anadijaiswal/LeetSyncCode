@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,16 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
