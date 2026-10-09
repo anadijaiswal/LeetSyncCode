@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0301-remove-invalid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
