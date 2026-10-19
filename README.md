@@ -26,11 +26,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +70,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
