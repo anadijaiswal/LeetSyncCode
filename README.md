@@ -29,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +84,12 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
