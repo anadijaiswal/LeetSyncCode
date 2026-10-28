@@ -27,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0136-single-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/anadijaiswal/LeetSyncCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -101,5 +102,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anadijaiswal/LeetSyncCode/tree/master/0136-single-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anadijaiswal/LeetSyncCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
